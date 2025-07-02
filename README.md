@@ -205,7 +205,7 @@ More analysis is available in:
 
 ##  Report
 
-See: [`report.md`](./report.md)
+See: [`RAG_Pipeline_Report.pdf`](./RAG_Pipeline_Report.pdf)
 
 ---
 
