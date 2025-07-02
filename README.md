@@ -150,6 +150,7 @@ I also experimented with **semantic chunking**, stored in: This method includes 
 I tested multiple sentence embeddings:
 - `all-MiniLM-L6-v2`
 - `bge-small-en`
+- `e5-base-v2`
 - Optionally, Instructor embeddings
 
 Comparative analysis is found in:
