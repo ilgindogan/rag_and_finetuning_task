@@ -198,7 +198,7 @@ More analysis is available in:
 ##  Resources
 
 - **Book**: *The Castle of Otranto* (Gutenberg)
-- **QA Data**: Custom or NarrativeQA-style
+- **QA Data**: NarrativeQA-style
 - **Vector DB**: Local Qdrant
 
 ---
